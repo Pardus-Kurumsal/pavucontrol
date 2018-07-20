@@ -1,3 +1,10 @@
+pavucontrol (3.0-4pardus1) unstable; urgency=medium
+
+  * Pardus CI implementation
+  * Add patches
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Fri, 20 Jul 2018 09:52:03 +0300
+
 pavucontrol (3.0-3.1) unstable; urgency=medium
 
   * Non-maintainer upload.
