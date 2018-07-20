@@ -1,8 +1,14 @@
-Description: Use freedesktop.org standard icon name
-Bug-Debian: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=863203
-Bug: https://bugs.freedesktop.org/show_bug.cgi?id=99577
-Forwarded: yes
+From: Pulseaudio maintenance team
+ <pkg-pulseaudio-devel@lists.alioth.debian.org>
+Date: Fri, 20 Jul 2018 09:50:42 +0300
+Subject: _fix_lock_icon
 
+---
+ src/pavucontrol.glade | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/src/pavucontrol.glade b/src/pavucontrol.glade
+index 219f5a2..edceaa1 100644
 --- a/src/pavucontrol.glade
 +++ b/src/pavucontrol.glade
 @@ -312,7 +312,7 @@
